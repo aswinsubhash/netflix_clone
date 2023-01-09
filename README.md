@@ -6,7 +6,7 @@ This is a clone application using TMDb REST API.Used GET method for fetching the
 ## Table of contenst
 
 - [Installation](#installation)
-- [Screeshots](#screenshots)
+- [Screenshots](#screenshots)
 - [Packages and Credits](#packages-and-credits)
 - [License](#license)
 
