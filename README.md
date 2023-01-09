@@ -29,9 +29,9 @@ To install the project, follow these steps:
 
 ## Screenshots 
 
-Preview                   |   Home Screen             |  Coming Soon Screen   |  Search Screen
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](assets/images/preview.gif)|![](assets/images/home.png)|![](assets/images/comingsoon.png)|![](assets/images/search.png)
+Home Screen             |  Coming Soon Screen   |  Search Screen
+:-------------------------:|:-------------------------:|:-------------------------:
+![](assets/images/home.png)|![](assets/images/comingsoon.png)|![](assets/images/search.png)
 
 
 ## Packages and Credits
